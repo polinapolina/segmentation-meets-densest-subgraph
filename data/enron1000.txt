@@ -1,0 +1,1000 @@
+"1980-01-01 02:00:00" 1490 28730 173241 Further information regarding Gov Thompson
+"1980-01-01 02:00:00" 1490 2170 173245 Re: Trains - Light rail
+"1980-01-01 02:00:00" 1490 782 173241 Further information regarding Gov Thompson
+"1980-01-01 02:00:00" 1490 3536 173241 Further information regarding Gov Thompson
+"1980-01-01 02:00:00" 1490 1452 173241 Further information regarding Gov Thompson
+"1980-01-01 02:00:00" 1490 4130 173241 Further information regarding Gov Thompson
+"1980-01-01 02:00:00" 1490 3441 173241 Further information regarding Gov Thompson
+"1980-01-01 02:00:00" 1490 48750 174295 Re:
+"1980-01-01 02:00:00" 1490 4894 176720 Re: Job Titles and Job Banding
+"1980-01-01 02:00:00" 9244 48735 233684 Re: SCE Counter Claim -- Underreporting of Volumes -- Confidential --	 Attorney Work Product
+"1980-01-01 02:00:00" 9244 80872 233684 Re: SCE Counter Claim -- Underreporting of Volumes -- Confidential --	 Attorney Work Product
+"1980-01-01 02:00:00" 9244 34227 233684 Re: SCE Counter Claim -- Underreporting of Volumes -- Confidential --	 Attorney Work Product
+"1980-01-01 02:00:00" 9244 29416 233684 Re: SCE Counter Claim -- Underreporting of Volumes -- Confidential --	 Attorney Work Product
+"1980-01-01 02:00:00" 9244 41214 233684 Re: SCE Counter Claim -- Underreporting of Volumes -- Confidential --	 Attorney Work Product
+"1980-01-01 02:00:00" 9244 28525 233684 Re: SCE Counter Claim -- Underreporting of Volumes -- Confidential --	 Attorney Work Product
+"1980-01-01 02:00:00" 9244 41524 233684 Re: SCE Counter Claim -- Underreporting of Volumes -- Confidential --	 Attorney Work Product
+"1999-09-06 17:06:00" 1490 2157 173249 Monthly Billing - Detail Class 845 / s100061.xls
+"1999-09-10 16:06:00" 1490 2217 173255 Commission Meetings
+"1999-09-10 16:06:00" 1490 1463 173255 Commission Meetings
+"1999-09-10 16:22:00" 1490 15283 173258 Speech to the British Institute of Energy Economists
+"1999-09-21 18:20:00" 1490 9924 173259 Ross Perot's EMS company
+"1999-09-21 18:20:00" 1490 1416 173259 Ross Perot's EMS company
+"1999-10-06 16:44:00" 1490 181 113953 Madera Ranch Press Release
+"1999-10-06 16:44:00" 1490 801 113953 Madera Ranch Press Release
+"1999-10-06 16:44:00" 1490 253 113953 Madera Ranch Press Release
+"1999-10-06 16:44:00" 1490 28654 113953 Madera Ranch Press Release
+"1999-10-06 16:44:00" 1490 8546 113953 Madera Ranch Press Release
+"1999-10-06 16:44:00" 1490 817 113953 Madera Ranch Press Release
+"1999-10-18 11:47:00" 1490 4132 10425 Translation of articles
+"1999-10-18 11:47:00" 1490 4058 10425 Translation of articles
+"1999-10-18 11:47:00" 1490 4128 10425 Translation of articles
+"1999-10-18 11:47:00" 1490 3538 10425 Translation of articles
+"1999-10-18 11:47:00" 1490 5416 10425 Translation of articles
+"1999-10-18 11:47:00" 1490 3441 10425 Translation of articles
+"1999-11-22 12:42:00" 1489 2258 114087 
+"1999-11-22 12:42:00" 1489 817 114087 
+"1999-11-22 12:42:00" 1489 253 114087 
+"1999-11-22 12:42:00" 1489 801 114087 
+"1999-11-22 12:42:00" 1489 15283 114087 
+"1999-12-06 12:32:00" 1490 9311 173307 Nepal
+"1999-12-06 12:32:00" 1490 2220 173307 Nepal
+"1999-12-06 12:48:00" 1490 9482 176714 Re: Security Assessment Report
+"1999-12-06 12:48:00" 1490 3450 176714 Re: Security Assessment Report
+"1999-12-08 09:45:00" 17563 19118 140836 Privileged and Confidential - Catalytica
+"1999-12-08 09:45:00" 17563 56853 140836 Privileged and Confidential - Catalytica
+"1999-12-08 09:45:00" 17563 3163 140836 Privileged and Confidential - Catalytica
+"1999-12-08 09:45:00" 17563 1699 140836 Privileged and Confidential - Catalytica
+"1999-12-08 09:45:00" 17563 154 140836 Privileged and Confidential - Catalytica
+"1999-12-08 09:45:00" 17563 3113 140836 Privileged and Confidential - Catalytica
+"1999-12-08 09:45:00" 17563 44409 140836 Privileged and Confidential - Catalytica
+"1999-12-08 09:45:00" 17563 56895 140836 Privileged and Confidential - Catalytica
+"1999-12-08 09:45:00" 17563 20200 140836 Privileged and Confidential - Catalytica
+"1999-12-13 19:15:00" 1490 1463 173319 West Virginia Settlement
+"1999-12-15 19:30:00" 1490 3536 173335 Governor Ridge might call Ken Lay today
+"1999-12-17 10:33:00" 1490 8312 173339 Black Mesa Pipeline Co
+"1999-12-29 11:13:00" 1490 1180 173354 Re: Joe Hirko Fortune interview
+"2000-01-26 21:22:00" 29413 15296 234238 The Dutch power market situation: STRICTLY PRIVATE & CONFIDENTIAL - ATTORNEY - CLIENT PRIVILEDGE
+"2000-01-26 21:22:00" 29413 9244 234238 The Dutch power market situation: STRICTLY PRIVATE & CONFIDENTIAL - ATTORNEY - CLIENT PRIVILEDGE
+"2000-01-26 21:22:00" 29413 2383 234238 The Dutch power market situation: STRICTLY PRIVATE & CONFIDENTIAL - ATTORNEY - CLIENT PRIVILEDGE
+"2000-02-01 10:10:00" 17095 206 234264 Confidential (Clien/Attorney Priveledge)
+"2000-02-01 10:10:00" 17095 9244 234264 Confidential (Clien/Attorney Priveledge)
+"2000-02-08 19:23:00" 242 4135 230797 Confidential re: McConville--Indemnity
+"2000-02-08 19:23:00" 242 222 230797 Confidential re: McConville--Indemnity
+"2000-02-08 19:23:00" 242 9244 230797 Confidential re: McConville--Indemnity
+"2000-02-17 22:55:00" 3114 4132 246327 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-17 22:55:00" 3114 2383 246327 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-20 19:53:00" 1490 817 173413 Re: Trade Mission
+"2000-02-20 19:53:00" 1490 4772 173413 Re: Trade Mission
+"2000-02-20 19:53:00" 1490 4893 173413 Re: Trade Mission
+"2000-02-21 12:16:00" 1490 5416 173418 Re: European Trip Report 22-30 Jan 2000
+"2000-02-23 18:22:00" 3114 3462 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 3469 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 3456 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 5381 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 6396 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 11402 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 5480 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 8304 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 3476 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 2383 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 3475 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 3538 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 4132 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 3480 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 4783 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 19662 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 17728 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 5904 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 5902 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 8499 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 3046 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-23 18:22:00" 3114 19661 246319 Protecting Confidential Information: New European Restricted List Procedure
+"2000-02-24 22:21:00" 3114 22157 246315 Protecting Confidential Information
+"2000-02-24 22:21:00" 3114 31231 246315 Protecting Confidential Information
+"2000-02-24 22:21:00" 3114 30976 246315 Protecting Confidential Information
+"2000-02-24 22:21:00" 3114 22163 246315 Protecting Confidential Information
+"2000-02-24 22:21:00" 3114 2383 246315 Protecting Confidential Information
+"2000-02-24 22:21:00" 3114 83969 246315 Protecting Confidential Information
+"2000-02-24 22:21:00" 3114 18188 246315 Protecting Confidential Information
+"2000-02-24 22:21:00" 3114 30032 246315 Protecting Confidential Information
+"2000-02-24 22:21:00" 3114 4132 246315 Protecting Confidential Information
+"2000-02-24 22:21:00" 3114 3475 246315 Protecting Confidential Information
+"2000-02-24 22:21:00" 3114 22158 246315 Protecting Confidential Information
+"2000-03-01 10:10:00" 57915 4769 149992 California Truck Wreck on 2/28 Involving Cummings and an Ex-EOTT Driver; CONFIDENTIAL AND PRIVILEGED ATTORNEY/CLIENT COMMUNICATION AND ATTORNEY'S WORK PRODUCT
+"2000-03-02 03:27:00" 1490 1490 173443 Re: VOICE MAIL
+"2000-04-11 16:29:00" 1490 1474 173533 The Energy Daily, EEI, and EPRI Present "Surviving The Summer of
+"2000-04-11 16:29:00" 1490 817 173533 The Energy Daily, EEI, and EPRI Present "Surviving The Summer of
+"2000-04-12 22:02:00" 1490 813 173538 Granite Update
+"2000-04-12 22:02:00" 1490 817 173538 Granite Update
+"2000-04-17 16:37:00" 242 11156 230395 Re: Confidential - Mike Miller
+"2000-04-17 16:37:00" 242 6477 230395 Re: Confidential - Mike Miller
+"2000-04-18 20:17:00" 1490 1620 173569 Re: EES - RAC Deal Approval Meeting
+"2000-04-18 20:17:00" 1490 1489 173569 Re: EES - RAC Deal Approval Meeting
+"2000-04-18 20:17:00" 1490 10866 173569 Re: EES - RAC Deal Approval Meeting
+"2000-04-18 20:17:00" 1490 1625 173569 Re: EES - RAC Deal Approval Meeting
+"2000-04-18 20:17:00" 1490 2370 173569 Re: EES - RAC Deal Approval Meeting
+"2000-04-18 20:17:00" 1490 3161 173569 Re: EES - RAC Deal Approval Meeting
+"2000-04-18 20:17:00" 1490 1746 173569 Re: EES - RAC Deal Approval Meeting
+"2000-04-18 20:17:00" 1490 1544 173569 Re: EES - RAC Deal Approval Meeting
+"2000-04-18 20:17:00" 1490 2222 173569 Re: EES - RAC Deal Approval Meeting
+"2000-04-18 20:30:00" 1490 817 173570 Re: Contribution to Sacramento Women's Campaign Fund
+"2000-04-18 20:30:00" 1490 2157 173570 Re: Contribution to Sacramento Women's Campaign Fund
+"2000-04-18 20:30:00" 1490 8312 173570 Re: Contribution to Sacramento Women's Campaign Fund
+"2000-04-18 20:30:00" 1490 8546 173570 Re: Contribution to Sacramento Women's Campaign Fund
+"2000-04-19 21:12:00" 1490 9311 173576 Re: Enron and the Energy Services Issue Before The WTO
+"2000-04-20 11:20:00" 1490 2315 173580 LEAK
+"2000-04-20 11:20:00" 1490 3443 173580 LEAK
+"2000-04-20 11:20:00" 1490 1724 173580 LEAK
+"2000-04-20 12:04:00" 1490 1547 173581 Something to shoot at--California
+"2000-04-20 12:16:00" 1490 1547 173582 LEAK
+"2000-04-20 14:48:00" 1490 4893 173590 Project California
+"2000-04-20 14:52:00" 1490 17437 173591 Form 4 Reminder for April
+"2000-04-20 16:44:00" 1490 2370 173593 Curve Validation
+"2000-04-20 16:44:00" 1490 1625 173593 Curve Validation
+"2000-04-20 16:44:00" 1490 1544 173593 Curve Validation
+"2000-04-20 16:44:00" 1490 1489 173593 Curve Validation
+"2000-06-02 20:09:00" 5416 4639 173684 Re: CONFIDENTIAL - MORE - back
+"2000-06-02 20:09:00" 5416 1490 173684 Re: CONFIDENTIAL - MORE - back
+"2000-06-15 21:16:00" 1145 76502 211399 Re: Confidential Agreement
+"2000-06-21 17:32:00" 57935 4769 150157 API Question; CONFIDENTIAL AND PRIVILEGED ATTORNEY/CLIENT COMMUNICATION & ATTORNEY'S WORK PRODUCT
+"2000-06-28 15:15:00" 6112 3445 173722 Confidential issues
+"2000-06-30 15:16:00" 31664 4769 150183 Confidential -Strategic Question
+"2000-06-30 15:16:00" 31664 5721 150183 Confidential -Strategic Question
+"2000-07-10 12:40:00" 9321 741 130758 Confidential - ENhome Program
+"2000-07-10 12:40:00" 9321 1977 130758 Confidential - ENhome Program
+"2000-07-10 12:40:00" 9321 6407 130758 Confidential - ENhome Program
+"2000-07-10 12:40:00" 9321 6387 130758 Confidential - ENhome Program
+"2000-07-10 12:40:00" 9321 2287 130758 Confidential - ENhome Program
+"2000-07-10 12:40:00" 9321 4133 130758 Confidential - ENhome Program
+"2000-07-10 12:40:00" 9321 23667 130758 Confidential - ENhome Program
+"2000-07-10 12:40:00" 9321 4941 130758 Confidential - ENhome Program
+"2000-07-10 12:40:00" 9321 10552 130758 Confidential - ENhome Program
+"2000-07-10 12:40:00" 9321 2235 130758 Confidential - ENhome Program
+"2000-07-10 12:40:00" 9321 8519 130758 Confidential - ENhome Program
+"2000-07-11 16:47:00" 57935 11376 150201 Phoenix/Equilon Deal; CONFIDENTIAL ATTORNEY/CLIENT COMMUNICATION AND ATTORNEY'S WORK PRODUCT
+"2000-07-11 16:47:00" 57935 56511 150201 Phoenix/Equilon Deal; CONFIDENTIAL ATTORNEY/CLIENT COMMUNICATION AND ATTORNEY'S WORK PRODUCT
+"2000-07-11 16:47:00" 57935 8518 150201 Phoenix/Equilon Deal; CONFIDENTIAL ATTORNEY/CLIENT COMMUNICATION AND ATTORNEY'S WORK PRODUCT
+"2000-07-11 16:47:00" 57935 56508 150201 Phoenix/Equilon Deal; CONFIDENTIAL ATTORNEY/CLIENT COMMUNICATION AND ATTORNEY'S WORK PRODUCT
+"2000-07-11 16:47:00" 57935 46202 150201 Phoenix/Equilon Deal; CONFIDENTIAL ATTORNEY/CLIENT COMMUNICATION AND ATTORNEY'S WORK PRODUCT
+"2000-07-11 16:47:00" 57935 4769 150201 Phoenix/Equilon Deal; CONFIDENTIAL ATTORNEY/CLIENT COMMUNICATION AND ATTORNEY'S WORK PRODUCT
+"2000-07-12 12:26:00" 1238 83121 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87402 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87403 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87269 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87404 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87405 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87406 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87257 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 78203 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 83084 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87263 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87407 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87255 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 83070 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87401 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 5 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 48459 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 49765 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87256 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 3304 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 83072 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87400 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 83096 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87399 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87398 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 83094 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 49548 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 31843 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 83105 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 12:26:00" 1238 87270 255563 CAISO Notice - Congestion Reform Proposal - Apendix B
+"2000-07-12 18:48:00" 57935 4140 150202 Re: Phoenix/Equilon Deal; CONFIDENTIAL ATTORNEY/CLIENT COMMUNICATION AND ATTORNEY'S WORK PRODUCT
+"2000-07-12 18:48:00" 57935 4769 150202 Re: Phoenix/Equilon Deal; CONFIDENTIAL ATTORNEY/CLIENT COMMUNICATION AND ATTORNEY'S WORK PRODUCT
+"2000-07-17 18:42:00" 1490 1547 173768 Re: Wimbledon update
+"2000-07-17 19:01:00" 1490 2205 173771 Re: Stand-alone Reliability Legislation
+"2000-07-17 19:01:00" 1490 65058 173771 Re: Stand-alone Reliability Legislation
+"2000-07-17 19:01:00" 1490 9311 173771 Re: Stand-alone Reliability Legislation
+"2000-07-17 19:01:00" 1490 51444 173771 Re: Stand-alone Reliability Legislation
+"2000-07-17 19:01:00" 1490 9825 173771 Re: Stand-alone Reliability Legislation
+"2000-07-17 19:01:00" 1490 817 173771 Re: Stand-alone Reliability Legislation
+"2000-07-17 19:01:00" 1490 1474 173771 Re: Stand-alone Reliability Legislation
+"2000-07-17 19:01:00" 1490 9313 173771 Re: Stand-alone Reliability Legislation
+"2000-07-18 16:39:00" 1490 1547 173774 Bloomberg story
+"2000-07-18 16:39:00" 1490 5475 173774 Bloomberg story
+"2000-07-18 16:43:00" 1490 4112 173775 
+"2000-07-18 18:33:00" 1490 65068 173778 Re: ORG CHART
+"2000-07-19 12:03:00" 1490 2214 173789 Re: BLM/Forest Service Right-of-Way Update
+"2000-07-19 12:03:00" 1490 28729 173789 Re: BLM/Forest Service Right-of-Way Update
+"2000-07-19 15:16:00" 1490 9313 173793 Re: Mtg w/Bob Gee
+"2000-07-19 19:53:00" 1490 813 173796 Re: Merger on FERC's Agenda
+"2000-07-19 20:21:00" 1490 5126 173797 Transredes spill
+"2000-07-19 20:21:00" 1490 4942 173797 Transredes spill
+"2000-07-20 01:55:00" 1490 2326 173800 Re: Interview Request
+"2000-07-20 02:10:00" 1490 1489 173802 recent developments
+"2000-07-20 02:10:00" 1490 2157 173802 recent developments
+"2000-07-20 05:38:00" 1490 51444 173804 
+"2000-07-20 05:38:00" 1490 9825 173804 
+"2000-07-20 05:38:00" 1490 813 173804 
+"2000-07-20 05:38:00" 1490 1474 173804 
+"2000-07-20 05:38:00" 1490 1489 173804 
+"2000-07-20 05:38:00" 1490 817 173804 
+"2000-07-20 05:38:00" 1490 9313 173804 
+"2000-07-21 14:22:00" 1490 9313 173819 Re: Hearing
+"2000-07-24 21:42:00" 1490 32879 173840 Re: Doctoral studies
+"2000-07-24 21:43:00" 1490 5126 173841 Re: Chorety Crisis
+"2000-07-24 21:59:00" 1490 4058 173844 Jeff Skillings' letter from Tom DeLay re: RNSEC
+"2000-07-24 21:59:00" 1490 3536 173844 Jeff Skillings' letter from Tom DeLay re: RNSEC
+"2000-07-25 17:09:00" 1490 2205 173847 Idea
+"2000-07-25 17:15:00" 1490 2157 173849 EU household & industrial consumers benefit from lower electricty prices
+"2000-07-25 17:26:00" 1490 817 173851 Enron's Global Asset Management Conference
+"2000-07-25 17:36:00" 1490 3538 173852 Re: Canary Wharf - Update for Executive Committee
+"2000-07-26 20:11:00" 1490 3441 173859 Re: MEC
+"2000-07-26 20:11:00" 1490 7911 173859 Re: MEC
+"2000-07-26 20:11:00" 1490 4133 173859 Re: MEC
+"2000-07-26 20:11:00" 1490 5335 173859 Re: MEC
+"2000-07-26 20:11:00" 1490 4094 173859 Re: MEC
+"2000-07-26 20:11:00" 1490 9318 173859 Re: MEC
+"2000-07-27 14:15:00" 1490 2204 173864 Government Affairs off-site presentations June 2000
+"2000-07-31 12:07:00" 1490 1180 176724 Confidential
+"2000-08-01 03:44:00" 57313 54964 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 54962 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 46424 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 64976 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 46208 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 8431 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 41601 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 56827 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 54965 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65087 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65091 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 45716 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65010 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 59795 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65090 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65012 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65089 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65088 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 18085 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65086 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 23771 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 5621 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65081 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 54961 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 19981 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 44774 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 41499 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65082 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65083 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 34227 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 7147 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 4919 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 53495 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 3451 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 44044 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 8474 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 65085 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 03:44:00" 57313 10418 173894 CONFIDENTIAL - SoCal Disclosure Schedules
+"2000-08-01 10:22:00" 1490 1724 173896 GREAT NEWS ****FERC Order on Morgan Stanley Complaint Against ISO
+"2000-08-01 10:26:00" 1490 1452 173897 GREAT NEWS ****FERC Order on Morgan Stanley Complaint Against ISO
+"2000-08-01 10:40:00" 1490 2201 173898 Enron's Matching Gift Program
+"2000-08-01 10:40:00" 1490 10417 173898 Enron's Matching Gift Program
+"2000-08-01 10:40:00" 1490 2170 173898 Enron's Matching Gift Program
+"2000-08-01 10:45:00" 1490 2305 173899 CNN Link Update
+"2000-08-01 10:45:00" 1490 1180 173899 CNN Link Update
+"2000-08-01 10:45:00" 1490 5123 173899 CNN Link Update
+"2000-08-01 10:45:00" 1490 2277 173899 CNN Link Update
+"2000-08-01 10:49:00" 1490 5416 173900 Re: Arbitration with Reliance and ONGC
+"2000-08-01 10:49:00" 1490 6112 173900 Re: Arbitration with Reliance and ONGC
+"2000-08-01 12:15:00" 1490 2315 173905 Camisea
+"2000-08-01 21:56:00" 1490 817 173915 Duke release and news conference
+"2000-08-02 18:05:00" 1490 1754 173918 Ken Lay's Meeting with Fox
+"2000-08-02 18:05:00" 1490 4651 173918 Ken Lay's Meeting with Fox
+"2000-08-02 18:05:00" 1490 2204 173918 Ken Lay's Meeting with Fox
+"2000-08-02 18:05:00" 1490 3536 173918 Ken Lay's Meeting with Fox
+"2000-08-02 18:07:00" 1490 6016 173919 MOU With India Oil Corp.
+"2000-08-02 18:12:00" 1490 2170 173920 Enron Advertising
+"2000-08-02 20:22:00" 1490 2204 173924 Public Report 08-01
+"2000-08-02 20:25:00" 1490 2204 173925 EnronOnline Management Report for August 1, 2000
+"2000-08-02 21:20:00" 1490 3659 173928 Regulatory issues memo: Revised
+"2000-08-02 21:33:00" 1490 3659 173929 Enron projects with OPIC financing
+"2000-08-02 21:33:00" 1490 817 173930 Enron projects with OPIC financing
+"2000-08-02 21:40:00" 1490 5123 173931 Re: Enron Advertising
+"2000-08-03 10:51:00" 1490 5132 173936 Re: Interesting Idea for Enron?
+"2000-08-03 12:44:00" 65010 46424 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 64976 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 46208 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 8431 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 5621 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 41601 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 56827 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65091 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 54962 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 54964 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 54965 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65087 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65088 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65089 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65012 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65090 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 59795 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 45716 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 18085 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65086 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 23771 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65083 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65082 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 44774 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 19981 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 54961 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65081 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 57313 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 41499 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 34227 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65084 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 4919 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 53495 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 3451 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 44044 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 8474 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 65085 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 10418 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 12:44:00" 65010 7147 173938 RE: CONFIDENTIAL - Disclosure Schedules
+"2000-08-03 20:14:00" 14935 9221 178973 Burlington: PRIVILEGED AND CONFIDENTIAL ATTORNEY-CLIENT COMMUNICATION
+"2000-08-03 22:15:00" 1490 9318 173956 Re: Downtown Arena- HHCC asked to give public comments to Construction Committee this week
+"2000-08-03 22:15:00" 1490 65098 173956 Re: Downtown Arena- HHCC asked to give public comments to Construction Committee this week
+"2000-08-03 22:15:00" 1490 2289 173956 Re: Downtown Arena- HHCC asked to give public comments to Construction Committee this week
+"2000-08-03 22:17:00" 1490 9318 173958 Re: MEC
+"2000-08-03 22:17:00" 1490 2157 173959 Re: Tax Valuations for YR2000
+"2000-08-04 06:46:00" 55002 55002 173960 WSP: Market Ripe for Manipulation...
+"2000-08-04 06:48:00" 48098 48346 114495 [Second Delivery: WPTF Friday Amen Burrito]
+"2000-08-04 19:02:00" 48347 253 114503 RE: reply
+"2000-08-04 19:02:00" 48347 48349 114503 RE: reply
+"2000-08-04 19:02:00" 48347 48351 114503 RE: reply
+"2000-08-04 19:02:00" 48347 48350 114503 RE: reply
+"2000-08-06 18:13:00" 1490 2319 173974 Re: EES Video
+"2000-08-07 10:55:00" 1490 2157 173977 Monthly Billing - Detail Class 845 / s100061.xls
+"2000-08-07 10:57:00" 1490 817 173978 TX Legislative Materials
+"2000-08-08 11:32:00" 1490 28730 173992 Re: executives
+"2000-08-08 11:39:00" 1490 9826 173993 interim emergency approaches.DOC--sent on behalf of Adam Wenner
+"2000-08-08 11:39:00" 1490 813 173993 interim emergency approaches.DOC--sent on behalf of Adam Wenner
+"2000-08-08 15:54:00" 1490 49296 173998 More great press!
+"2000-08-08 15:54:00" 1490 817 173998 More great press!
+"2000-08-09 09:35:00" 1490 7668 174002 Media Alert: Arbitration with Reliance and ONGC
+"2000-08-09 09:35:00" 1490 4638 174002 Media Alert: Arbitration with Reliance and ONGC
+"2000-08-09 16:45:00" 1489 1490 174008 California Public Affairs Strategy
+"2000-08-09 16:45:00" 1489 1547 174008 California Public Affairs Strategy
+"2000-08-09 16:45:00" 1489 4851 174008 California Public Affairs Strategy
+"2000-08-09 16:45:00" 1489 817 174008 California Public Affairs Strategy
+"2000-08-09 16:45:00" 1489 28654 174008 California Public Affairs Strategy
+"2000-08-09 16:45:00" 1489 181 174008 California Public Affairs Strategy
+"2000-08-09 16:45:00" 1489 17095 174008 California Public Affairs Strategy
+"2000-08-09 16:45:00" 1489 8546 174008 California Public Affairs Strategy
+"2000-08-09 16:45:00" 1489 1180 174008 California Public Affairs Strategy
+"2000-08-09 16:45:00" 1489 801 174008 California Public Affairs Strategy
+"2000-08-09 16:45:00" 1489 253 174008 California Public Affairs Strategy
+"2000-08-09 17:44:00" 1490 65101 174011 Report on Calif. Electricity Price Spikes by CPUC and EOB
+"2000-08-09 17:55:00" 1490 1463 174012 California Update
+"2000-08-11 03:00:00" 242 19677 230575 Re: Priviliged and Confidential communication to my attorney Re: Henry Bath LA
+"2000-08-11 03:00:00" 242 20279 230575 Re: Priviliged and Confidential communication to my attorney Re: Henry Bath LA
+"2000-08-11 04:59:00" 48098 48346 125706 WPTF Friday Deliver Unto Us A Burrito
+"2000-08-11 11:59:00" 48098 48346 255636 WPTF Friday Deliver Unto Us A Burrito
+"2000-08-14 11:35:00" 1490 801 174050 Re: CA Price caps
+"2000-08-14 11:45:00" 1490 801 174051 Re: CA Price caps
+"2000-08-14 11:48:00" 1490 2169 174052 Re: Politics and Enron
+"2000-08-14 11:54:00" 1490 2220 174053 CFTC Reauthorization
+"2000-08-14 11:54:00" 1490 817 174053 CFTC Reauthorization
+"2000-08-14 11:55:00" 1490 3536 174054 CFTC Reauthorization
+"2000-08-14 12:00:00" 1490 4772 174055 Re: Enron Advisory Council meeting
+"2000-08-14 13:42:00" 1490 48355 174057 California Power Issue
+"2000-08-16 09:56:00" 1490 1489 174071 Re: Bill Massey
+"2000-08-16 09:56:00" 1490 817 174071 Re: Bill Massey
+"2000-08-16 09:56:00" 1490 1474 174071 Re: Bill Massey
+"2000-08-16 10:24:00" 1490 5956 174072 Schedule for the Schedules
+"2000-08-17 18:44:00" 14935 24943 132746 PRIVILEGED & CONFIDENTIAL ATTORNEY-CLIENT COMMUNICATION Terminability of Val Verde interconnect agreement
+"2000-08-17 18:44:00" 14935 9221 132746 PRIVILEGED & CONFIDENTIAL ATTORNEY-CLIENT COMMUNICATION Terminability of Val Verde interconnect agreement
+"2000-08-18 17:23:00" 1490 2785 174111 Talking Points re "reregulation" in California
+"2000-08-18 17:23:00" 1490 2785 174112 Re: FERC INVESTIGATION IN CA - What should they be looking for?
+"2000-08-21 10:19:00" 1490 5604 174118 Re: Computer Based Communications Training Initiative - Response Reminder for Feedback
+"2000-08-21 10:29:00" 1490 5604 174119 Re: Computer Based Communications Training Initiative - Response Reminder for Feedback
+"2000-08-21 10:30:00" 1490 5956 174120 Re: PLEASE READ & RESPOND
+"2000-08-21 10:40:00" 1490 1463 174122 EFET paper on acceleration of energy liberalisation in the EU
+"2000-08-21 11:01:00" 1490 2280 174125 
+"2000-08-21 11:01:00" 1490 817 174125 
+"2000-08-21 11:01:00" 1490 1479 174125 
+"2000-08-21 11:01:00" 1490 1489 174125 
+"2000-08-21 18:05:00" 1490 5128 174135 
+"2000-08-21 18:14:00" 1490 2307 174136 Liberalisation of Italy's Energy Markets
+"2000-08-21 18:14:00" 1490 5416 174136 Liberalisation of Italy's Energy Markets
+"2000-08-22 19:43:00" 1490 817 174151 Re: Charlie Baker
+"2000-08-22 19:50:00" 1490 2280 174153 DRAFT PRESS RELEASE: NBP Announces Intent to Purchase ENA Assets in Powder River and Wind River Basins
+"2000-08-22 19:50:00" 1490 5121 174153 DRAFT PRESS RELEASE: NBP Announces Intent to Purchase ENA Assets in Powder River and Wind River Basins
+"2000-08-22 19:51:00" 1490 9468 174154 RE: Pro Regulation speech
+"2000-08-22 19:51:00" 1490 817 174154 RE: Pro Regulation speech
+"2000-08-22 19:51:00" 1490 1547 174154 RE: Pro Regulation speech
+"2000-08-22 19:51:00" 1490 2157 174154 RE: Pro Regulation speech
+"2000-08-22 19:51:00" 1490 1489 174154 RE: Pro Regulation speech
+"2000-08-22 19:57:00" 1490 1547 174156 Time Magazine - Enron Plays the Pipes....
+"2000-08-22 19:57:00" 1490 1180 174156 Time Magazine - Enron Plays the Pipes....
+"2000-08-23 21:06:00" 1490 2204 174171 
+"2000-08-24 10:29:00" 1490 9314 174173 Re: pipeline aftermath
+"2000-08-24 11:39:00" 1490 1489 174177 FERC investigation
+"2000-08-24 11:39:00" 1490 17095 174177 FERC investigation
+"2000-08-24 11:39:00" 1490 1416 174177 FERC investigation
+"2000-08-24 11:39:00" 1490 817 174177 FERC investigation
+"2000-08-24 11:39:00" 1490 1474 174177 FERC investigation
+"2000-08-24 11:41:00" 1490 1474 174178 Re: FERC INVESTIGATION IN CA - What should they be looking for?
+"2000-08-24 15:28:00" 1490 42012 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 3158 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 3157 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 48462 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 1774 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 34186 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 34230 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 2319 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 10986 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 35533 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 1475 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 168 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 1490 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 1547 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 4851 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 28783 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 28525 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 181 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 28727 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 2222 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 1489 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 15:28:00" 1490 817 174183 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-24 20:43:00" 1490 1474 174189 Re: Daily Update / Legislative Update - 8/23/00
+"2000-08-25 00:45:00" 28654 28727 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 2222 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 1489 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 817 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 4851 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 1547 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 1490 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 37 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 181 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 28525 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 42012 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 48344 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 34186 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 3157 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 10986 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 35533 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 2319 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 3158 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 28783 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 1475 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 48462 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 1774 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 00:45:00" 28654 34230 174192 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 28727 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 2222 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 1489 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 817 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 4851 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 1547 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 1490 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 37 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 181 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 28525 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 28783 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 28654 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 42012 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 48344 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 34186 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 10986 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 35533 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 2319 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 3158 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 34230 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 1774 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 48462 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 1475 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:10:00" 1490 3157 174193 Re: Daily Update/ Legislative activity - 08/24/00
+"2000-08-25 10:12:00" 1490 801 174194 SDG&E
+"2000-08-25 10:12:00" 1490 42012 174194 SDG&E
+"2000-08-25 10:12:00" 1490 1474 174194 SDG&E
+"2000-08-25 10:12:00" 1490 817 174194 SDG&E
+"2000-08-25 10:12:00" 1490 1489 174194 SDG&E
+"2000-08-25 10:12:00" 1490 28654 174194 SDG&E
+"2000-08-25 10:12:00" 1490 8546 174194 SDG&E
+"2000-08-25 10:13:00" 1490 1180 174195 SDG&E
+"2000-08-25 10:13:00" 1490 9468 174195 SDG&E
+"2000-08-25 10:13:00" 1490 1474 174195 SDG&E
+"2000-08-25 10:13:00" 1490 8546 174195 SDG&E
+"2000-08-25 10:13:00" 1490 28654 174195 SDG&E
+"2000-08-25 10:13:00" 1490 817 174195 SDG&E
+"2000-08-25 10:13:00" 1490 42012 174195 SDG&E
+"2000-08-25 10:13:00" 1490 1489 174195 SDG&E
+"2000-08-28 10:17:00" 1490 5125 174203 Re: Ken Lay meeting with Japanese Prime Minister
+"2000-08-28 10:17:00" 1490 3463 174203 Re: Ken Lay meeting with Japanese Prime Minister
+"2000-08-28 10:17:00" 1490 5416 174203 Re: Ken Lay meeting with Japanese Prime Minister
+"2000-08-28 10:17:00" 1490 3536 174203 Re: Ken Lay meeting with Japanese Prime Minister
+"2000-08-28 10:17:00" 1490 3495 174203 Re: Ken Lay meeting with Japanese Prime Minister
+"2000-08-28 10:35:00" 1490 9468 174206 Re: California Power Issues Database
+"2000-08-28 10:36:00" 1490 9468 174207 fyi
+"2000-08-28 10:39:00" 1490 9846 174208 Re: Advisory board meeting
+"2000-08-28 10:39:00" 1490 9468 174208 Re: Advisory board meeting
+"2000-08-28 11:43:00" 1490 9468 174211 California Power Issues Database
+"2000-08-28 16:30:00" 4851 1489 174214 Industry News: Charges of Gouging as Power Costs Skyrocket
+"2000-08-28 16:30:00" 4851 1180 174214 Industry News: Charges of Gouging as Power Costs Skyrocket
+"2000-08-28 16:30:00" 4851 1490 174214 Industry News: Charges of Gouging as Power Costs Skyrocket
+"2000-08-28 16:30:00" 4851 1547 174214 Industry News: Charges of Gouging as Power Costs Skyrocket
+"2000-08-28 16:30:00" 4851 817 174214 Industry News: Charges of Gouging as Power Costs Skyrocket
+"2000-08-28 16:30:00" 4851 5118 174214 Industry News: Charges of Gouging as Power Costs Skyrocket
+"2000-08-28 17:56:00" 1490 817 174216 Re: EES Organizational Announcement
+"2000-08-29 14:38:00" 1490 9846 174220 Upcoming Advisory Council Meeting
+"2000-08-29 14:38:00" 1490 65151 174220 Upcoming Advisory Council Meeting
+"2000-08-29 19:11:00" 253 48347 114715 Re: FW: Possible co-sponsorships
+"2000-08-29 19:11:00" 253 48413 114715 Re: FW: Possible co-sponsorships
+"2000-08-29 19:11:00" 253 48350 114715 Re: FW: Possible co-sponsorships
+"2000-08-29 19:11:00" 253 48357 114715 Re: FW: Possible co-sponsorships
+"2000-08-29 19:11:00" 253 48412 114715 Re: FW: Possible co-sponsorships
+"2000-08-29 19:11:00" 253 253 114715 Re: FW: Possible co-sponsorships
+"2000-08-29 19:11:00" 253 48351 114715 Re: FW: Possible co-sponsorships
+"2000-08-31 15:28:00" 1490 3495 174229 Re: Ken Lay/ Jeff Skilling visits
+"2000-08-31 15:28:00" 1490 41256 174229 Re: Ken Lay/ Jeff Skilling visits
+"2000-08-31 15:28:00" 1490 17581 174229 Re: Ken Lay/ Jeff Skilling visits
+"2000-08-31 15:28:00" 1490 3463 174229 Re: Ken Lay/ Jeff Skilling visits
+"2000-08-31 15:28:00" 1490 5416 174229 Re: Ken Lay/ Jeff Skilling visits
+"2000-08-31 15:28:00" 1490 5125 174229 Re: Ken Lay/ Jeff Skilling visits
+"2000-08-31 15:28:00" 1490 3536 174229 Re: Ken Lay/ Jeff Skilling visits
+"2000-08-31 15:28:00" 1490 1490 174229 Re: Ken Lay/ Jeff Skilling visits
+"2000-08-31 17:24:00" 1490 1180 174232 Carin Energy Rumor
+"2000-08-31 17:24:00" 1490 1547 174232 Carin Energy Rumor
+"2000-08-31 19:41:00" 1490 1388 174238 Power of Communication Program
+"2000-08-31 20:42:00" 1490 1489 174243 Re: Senate passes Alper/Davis Bill 30-0
+"2000-09-01 10:16:00" 1490 9468 174245 California
+"2000-09-01 10:16:00" 1490 5416 174244 Re: 2001 budget
+"2000-09-01 10:43:00" 1490 253 114844 
+"2000-09-01 10:43:00" 1490 817 114844 
+"2000-09-01 10:43:00" 1490 181 114844 
+"2000-09-01 10:43:00" 1490 1489 114844 
+"2000-09-01 10:43:00" 1490 801 114844 
+"2000-09-01 10:43:00" 1490 28654 114844 
+"2000-09-01 10:43:00" 1490 37 114844 
+"2000-09-01 10:43:00" 1490 17095 114844 
+"2000-09-01 10:49:00" 1490 28654 174248 Re: Senate passes Alper/Davis Bill 30-0
+"2000-09-01 10:54:00" 1490 28654 114845 
+"2000-09-01 10:54:00" 1490 253 114845 
+"2000-09-01 10:54:00" 1490 801 114845 
+"2000-09-01 10:54:00" 1490 8546 114845 
+"2000-09-01 10:55:00" 1490 817 174249 Senate passes Alper/Davis Bill 30-0
+"2000-09-01 11:27:00" 1490 9468 114847 California Lawmakers Vote to Limit Power Costs - WSJ
+"2000-09-01 11:27:00" 1490 8546 114847 California Lawmakers Vote to Limit Power Costs - WSJ
+"2000-09-01 11:27:00" 1490 253 114847 California Lawmakers Vote to Limit Power Costs - WSJ
+"2000-09-01 11:27:00" 1490 28654 114847 California Lawmakers Vote to Limit Power Costs - WSJ
+"2000-09-01 11:27:00" 1490 2222 114847 California Lawmakers Vote to Limit Power Costs - WSJ
+"2000-09-01 11:27:00" 1490 801 114847 California Lawmakers Vote to Limit Power Costs - WSJ
+"2000-09-01 11:27:00" 1490 817 114847 California Lawmakers Vote to Limit Power Costs - WSJ
+"2000-09-01 11:27:00" 1490 1489 114847 California Lawmakers Vote to Limit Power Costs - WSJ
+"2000-09-01 11:28:00" 1490 8546 174251 California Lawmakers Vote to Limit Power Costs - WSJ
+"2000-09-01 14:25:00" 1490 4937 174259 Linda Jenkins on "Jerry's Show" Monday
+"2000-09-02 20:14:00" 1490 4653 174266 Re: The Governors' Natural Gas Summit: Responding to the Challenge
+"2000-09-08 19:21:00" 48685 48368 115140 Request Confidential Information by FERC
+"2000-09-08 19:21:00" 48685 48369 115140 Request Confidential Information by FERC
+"2000-09-08 19:21:00" 48685 48366 115140 Request Confidential Information by FERC
+"2000-09-08 19:21:00" 48685 48370 115140 Request Confidential Information by FERC
+"2000-09-08 19:21:00" 48685 48367 115140 Request Confidential Information by FERC
+"2000-09-08 19:21:00" 48685 48372 115140 Request Confidential Information by FERC
+"2000-09-08 19:21:00" 48685 48375 115140 Request Confidential Information by FERC
+"2000-09-08 19:21:00" 48685 48686 115140 Request Confidential Information by FERC
+"2000-09-08 19:21:00" 48685 48373 115140 Request Confidential Information by FERC
+"2000-09-08 19:21:00" 48685 48374 115140 Request Confidential Information by FERC
+"2000-09-08 19:21:00" 48685 48371 115140 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 9244 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 213 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 813 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 48642 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 801 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 28654 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 1489 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 181 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 1475 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 17252 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 37 115139 Request Confidential Information by FERC
+"2000-09-08 19:26:00" 17095 55 115139 Request Confidential Information by FERC
+"2000-09-08 20:03:00" 1490 817 174285 
+"2000-09-08 20:03:00" 1490 44520 174285 
+"2000-09-11 00:07:00" 28654 1547 115175 CPUC Hearing in SD on 9/8
+"2000-09-11 00:07:00" 28654 4851 115175 CPUC Hearing in SD on 9/8
+"2000-09-11 00:07:00" 28654 9313 115175 CPUC Hearing in SD on 9/8
+"2000-09-11 00:07:00" 28654 813 115175 CPUC Hearing in SD on 9/8
+"2000-09-11 00:07:00" 28654 1490 115175 CPUC Hearing in SD on 9/8
+"2000-09-11 00:07:00" 28654 817 115175 CPUC Hearing in SD on 9/8
+"2000-09-11 00:07:00" 28654 2222 115175 CPUC Hearing in SD on 9/8
+"2000-09-11 00:07:00" 28654 1489 115175 CPUC Hearing in SD on 9/8
+"2000-09-11 00:07:00" 28654 48344 115175 CPUC Hearing in SD on 9/8
+"2000-09-11 02:20:00" 1490 48386 174289 Re: Fletcher School/Enron
+"2000-09-11 02:20:00" 1490 1388 174289 Re: Fletcher School/Enron
+"2000-09-11 19:40:00" 14935 26568 179001 PRIVILEGED & CONFIDENTIAL Attorney/Client Communication: Your TW Capacity Options questions
+"2000-09-11 19:40:00" 14935 23672 179001 PRIVILEGED & CONFIDENTIAL Attorney/Client Communication: Your TW Capacity Options questions
+"2000-09-13 10:57:00" 1490 48767 174298 Re: Contact
+"2000-09-13 11:01:00" 1490 5955 174299 Invitation to Corporate Responsibility Task Force Meeting
+"2000-09-13 11:07:00" 1490 4851 174301 Re: testimony
+"2000-09-13 11:07:00" 1490 1463 174302 Thursday Meeting on Winter Gas Prices
+"2000-09-13 11:09:00" 1490 5122 174303 re: On Workplace Sleeves, Few Political Hearts
+"2000-09-13 11:12:00" 1490 1178 174304 BG&E
+"2000-09-13 11:18:00" 1490 5484 174305 Stelzer remarks at advisory board meeting
+"2000-09-13 12:44:00" 1490 65166 174307 
+"2000-09-13 13:13:00" 1490 54979 174308 
+"2000-09-14 22:00:00" 253 46814 115317 Observations on the Hearings this Week
+"2000-09-15 10:33:00" 1490 2157 174319 Enron Energy Services: With Dereg Under Fire,Enron Calif Elec Business Heats Up
+"2000-09-15 10:33:00" 1490 9468 174319 Enron Energy Services: With Dereg Under Fire,Enron Calif Elec Business Heats Up
+"2000-09-15 10:33:00" 1490 4967 174319 Enron Energy Services: With Dereg Under Fire,Enron Calif Elec Business Heats Up
+"2000-09-15 10:37:00" 1490 2201 176729 Re: PRC cluster descriptors - draft
+"2000-09-15 10:37:00" 1490 242 176729 Re: PRC cluster descriptors - draft
+"2000-09-15 10:37:00" 1490 1490 176729 Re: PRC cluster descriptors - draft
+"2000-09-15 10:37:00" 1490 222 176729 Re: PRC cluster descriptors - draft
+"2000-09-15 10:37:00" 1490 1282 176729 Re: PRC cluster descriptors - draft
+"2000-09-15 10:44:00" 1490 9313 174320 Re: washington contacts
+"2000-09-15 10:54:00" 1490 253 115322 Re: Skilling Get Davis Straightened Out?
+"2000-09-15 10:55:00" 1490 253 115323 Re: Two Governor's Press Releases--More Courage from the Capitol
+"2000-09-15 16:19:00" 253 17095 115333 Re: CPUC Request for Confidential Information
+"2000-09-15 16:19:00" 253 1489 115333 Re: CPUC Request for Confidential Information
+"2000-09-15 16:19:00" 253 1474 115333 Re: CPUC Request for Confidential Information
+"2000-09-15 16:19:00" 253 801 115333 Re: CPUC Request for Confidential Information
+"2000-09-15 16:19:00" 253 813 115333 Re: CPUC Request for Confidential Information
+"2000-09-19 11:07:00" 9244 1491 232324 Re: Privileged & Confidential -- Verification
+"2000-09-20 11:44:00" 1490 1416 174338 SRP Change in Business Practice at Palo Verde
+"2000-09-20 11:44:00" 1490 1517 174338 SRP Change in Business Practice at Palo Verde
+"2000-09-20 11:44:00" 1490 1516 174338 SRP Change in Business Practice at Palo Verde
+"2000-09-20 12:05:00" 1490 2157 174339 State's Power Grid Again Pushed to Brink of Rolling Blackouts Energy
+"2000-09-20 12:21:00" 1490 1489 174341 Presentation to faculty and students at Berkeley
+"2000-09-20 12:21:00" 1490 1388 174342 Presentation to faculty and students at Berkeley
+"2000-09-20 12:21:00" 1490 5335 174341 Presentation to faculty and students at Berkeley
+"2000-09-20 12:21:00" 1490 2157 174341 Presentation to faculty and students at Berkeley
+"2000-09-20 12:21:00" 1490 1463 174341 Presentation to faculty and students at Berkeley
+"2000-09-20 12:48:00" 1490 1463 174344 Enron Mentions
+"2000-09-20 13:35:00" 1490 1490 174345 Bush IT National Steering Committee, Invitation
+"2000-09-20 17:36:00" 47377 48560 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 47165 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48565 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48566 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48567 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48568 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48569 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48564 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 47381 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48563 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48581 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48562 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48561 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 47380 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 1162 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 4005 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48570 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48571 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 46819 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48699 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 47379 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48580 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48158 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48579 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48354 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48578 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48577 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48445 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48576 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48575 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48574 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48573 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48221 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 46814 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 17:36:00" 47377 48572 115439 Fw: CONFIDENTIAL AND PRIVILEGED ATTORNEY-CLIENT COMMUNICATION
+"2000-09-20 20:51:00" 1490 8546 115444 
+"2000-09-20 20:51:00" 1490 253 115444 
+"2000-09-20 20:51:00" 1490 159 115444 
+"2000-09-21 14:00:00" 1490 2157 174352 Pre-Election Discounts!
+"2000-09-21 20:51:00" 1490 577 174356 Re: Public Report 09-20
+"2000-09-22 10:34:00" 1490 65189 174357 Sen. Hagel's ESI speech
+"2000-09-22 10:41:00" 1490 817 174358 FWD: News Article
+"2000-09-22 13:44:00" 1490 9311 174361 Urgent!!! FLSA legislation is on the fast track
+"2000-09-22 17:18:00" 4967 48355 115495 CalPX Told To Release Confidential Trade Data To ..
+"2000-09-22 17:18:00" 4967 48461 115495 CalPX Told To Release Confidential Trade Data To ..
+"2000-09-22 17:18:00" 4967 3495 115495 CalPX Told To Release Confidential Trade Data To ..
+"2000-09-22 17:18:00" 4967 47920 115495 CalPX Told To Release Confidential Trade Data To ..
+"2000-09-22 17:18:00" 4967 3157 115495 CalPX Told To Release Confidential Trade Data To ..
+"2000-09-22 17:18:00" 4967 1490 115495 CalPX Told To Release Confidential Trade Data To ..
+"2000-09-22 17:34:00" 1490 4769 174366 
+"2000-09-22 17:34:00" 1490 2280 174366 
+"2000-09-22 17:34:00" 1490 1489 174366 
+"2000-09-22 17:34:00" 1490 817 174366 
+"2000-09-22 17:34:00" 1490 1474 174366 
+"2000-09-24 19:52:00" 1490 2239 174372 FCEL
+"2000-09-24 20:10:00" 1490 2222 174373 Re: Associations
+"2000-09-24 20:10:00" 1490 1762 174373 Re: Associations
+"2000-09-24 20:10:00" 1490 817 174373 Re: Associations
+"2000-09-24 20:10:00" 1490 65190 174373 Re: Associations
+"2000-09-24 20:10:00" 1490 2157 174373 Re: Associations
+"2000-09-24 20:28:00" 1490 15283 174375 Re: ELECTRICITY TRADED VOLUMES since 1994
+"2000-09-25 13:59:00" 1490 9311 174381 
+"2000-09-26 19:15:00" 1490 2170 174388 Re: So you will know . . .
+"2000-09-26 19:33:00" 1490 1547 174391 Re: Dereg Articles
+"2000-09-26 19:51:00" 1490 4931 174395 Angle Master Invention
+"2000-09-26 20:02:00" 1490 1489 174396 Re: EPMI protests AEP's continuation of MBRs
+"2000-09-26 20:02:00" 1490 1416 174396 Re: EPMI protests AEP's continuation of MBRs
+"2000-09-26 20:02:00" 1490 813 174396 Re: EPMI protests AEP's continuation of MBRs
+"2000-09-26 20:07:00" 1490 65191 174397 novak column
+"2000-09-26 20:10:00" 1490 65191 174398 Sen. Hagel's ESI speech
+"2000-09-27 14:50:00" 1490 2157 115658 WSJ: PG&E's Huge losses...
+"2000-09-27 14:50:00" 1490 253 115658 WSJ: PG&E's Huge losses...
+"2000-09-27 14:50:00" 1490 1489 115658 WSJ: PG&E's Huge losses...
+"2000-09-27 14:55:00" 1490 813 174400 Re: Draft Letter to FERC by Consumer Groups
+"2000-09-27 15:26:00" 1452 222 192144 Confidential - New Procedures to be introduced by ENA OTC for Exec Employment Agreements and Hiring of Commercial Staff below VP into ENA
+"2000-09-27 15:26:00" 1452 3538 192144 Confidential - New Procedures to be introduced by ENA OTC for Exec Employment Agreements and Hiring of Commercial Staff below VP into ENA
+"2000-09-27 15:26:00" 1452 701 192144 Confidential - New Procedures to be introduced by ENA OTC for Exec Employment Agreements and Hiring of Commercial Staff below VP into ENA
+"2000-09-27 20:15:00" 1490 2170 174404 Re: Update -- Project 100
+"2000-09-27 20:21:00" 1490 253 174406 Digital Power Demand: JP Morgan Report
+"2000-09-27 20:22:00" 1490 4967 174407 Digital Power Demand: JP Morgan Report
+"2000-09-27 20:27:00" 1490 5956 176743 Dow Jones: Enron, Bush's Biggest Contributor
+"2000-09-27 20:27:00" 1490 2315 176743 Dow Jones: Enron, Bush's Biggest Contributor
+"2000-09-27 20:27:00" 1490 4926 176743 Dow Jones: Enron, Bush's Biggest Contributor
+"2000-09-27 20:30:00" 1490 4967 174410 Natural Gas Price Increase
+"2000-09-27 20:30:00" 1490 2157 174410 Natural Gas Price Increase
+"2000-09-27 20:33:00" 1490 2157 174411 Message Points on Higher Gas Prices
+"2000-09-27 20:33:00" 1490 4967 174411 Message Points on Higher Gas Prices
+"2000-09-27 20:33:00" 1490 9313 174412 Re: Congressman Edwards (D-TX)
+"2000-09-27 20:46:00" 1490 65192 174414 Re: FW: fact sheet- latest draft
+"2000-09-29 18:47:00" 1490 5894 174421 examples of auction processes that worked
+"2000-09-29 18:47:00" 1490 18150 174421 examples of auction processes that worked
+"2000-09-29 18:47:00" 1490 5416 174421 examples of auction processes that worked
+"2000-09-29 18:47:00" 1490 1480 174421 examples of auction processes that worked
+"2000-09-29 18:47:00" 1490 435 174421 examples of auction processes that worked
+"2000-09-29 18:47:00" 1490 10869 174421 examples of auction processes that worked
+"2000-09-29 18:47:00" 1490 2229 174421 examples of auction processes that worked
+"2000-09-29 18:47:00" 1490 2228 174421 examples of auction processes that worked
+"2000-09-29 18:47:00" 1490 2239 174421 examples of auction processes that worked
+"2000-09-29 18:53:00" 48685 48374 115773 Request for Confidential Information by the GAO
+"2000-09-29 18:53:00" 48685 48831 115773 Request for Confidential Information by the GAO
+"2000-09-29 18:53:00" 48685 48366 115773 Request for Confidential Information by the GAO
+"2000-09-29 18:53:00" 48685 48367 115773 Request for Confidential Information by the GAO
+"2000-09-29 18:53:00" 48685 48368 115773 Request for Confidential Information by the GAO
+"2000-09-29 18:53:00" 48685 48370 115773 Request for Confidential Information by the GAO
+"2000-09-29 18:53:00" 48685 48371 115773 Request for Confidential Information by the GAO
+"2000-09-29 18:53:00" 48685 48372 115773 Request for Confidential Information by the GAO
+"2000-09-29 18:53:00" 48685 48373 115773 Request for Confidential Information by the GAO
+"2000-09-29 18:53:00" 48685 48786 115773 Request for Confidential Information by the GAO
+"2000-09-29 19:10:00" 4967 48355 115761 Utilities, Electric: Deregulation: Electricity Crisis Cools Down a Bit in San Diego County, ...
+"2000-09-29 19:10:00" 4967 48461 115761 Utilities, Electric: Deregulation: Electricity Crisis Cools Down a Bit in San Diego County, ...
+"2000-09-29 19:10:00" 4967 3495 115761 Utilities, Electric: Deregulation: Electricity Crisis Cools Down a Bit in San Diego County, ...
+"2000-09-29 19:10:00" 4967 47920 115761 Utilities, Electric: Deregulation: Electricity Crisis Cools Down a Bit in San Diego County, ...
+"2000-09-29 19:10:00" 4967 3157 115761 Utilities, Electric: Deregulation: Electricity Crisis Cools Down a Bit in San Diego County, ...
+"2000-09-29 19:10:00" 4967 1490 115761 Utilities, Electric: Deregulation: Electricity Crisis Cools Down a Bit in San Diego County, ...
+"2000-09-29 21:06:00" 253 813 115774 Request for Confidential Information by the US GAO
+"2000-09-29 21:06:00" 253 1489 115774 Request for Confidential Information by the US GAO
+"2000-09-29 21:06:00" 253 181 115774 Request for Confidential Information by the US GAO
+"2000-09-29 21:06:00" 253 8546 115774 Request for Confidential Information by the US GAO
+"2000-09-29 21:06:00" 253 801 115774 Request for Confidential Information by the US GAO
+"2000-09-29 21:06:00" 253 17095 115774 Request for Confidential Information by the US GAO
+"2000-09-29 21:06:00" 253 1474 115774 Request for Confidential Information by the US GAO
+"2000-09-29 21:06:00" 253 817 115774 Request for Confidential Information by the US GAO
+"2000-09-29 21:06:00" 253 9244 115774 Request for Confidential Information by the US GAO
+"2000-10-02 10:34:00" 1490 1477 174429 California Pricing
+"2000-10-02 11:42:00" 17095 206 232406 Request for Confidential Information by the GAO
+"2000-10-02 11:42:00" 17095 28563 232406 Request for Confidential Information by the GAO
+"2000-10-02 11:42:00" 17095 1489 232406 Request for Confidential Information by the GAO
+"2000-10-02 11:42:00" 17095 817 232406 Request for Confidential Information by the GAO
+"2000-10-02 11:42:00" 17095 813 232406 Request for Confidential Information by the GAO
+"2000-10-02 11:42:00" 17095 181 232406 Request for Confidential Information by the GAO
+"2000-10-02 11:42:00" 17095 28525 232406 Request for Confidential Information by the GAO
+"2000-10-02 11:42:00" 17095 9244 232406 Request for Confidential Information by the GAO
+"2000-10-02 14:43:00" 48685 48786 115817 PDF Attachment-Request for Confidential Information by the GAO
+"2000-10-02 14:43:00" 48685 48373 115817 PDF Attachment-Request for Confidential Information by the GAO
+"2000-10-02 14:43:00" 48685 48371 115817 PDF Attachment-Request for Confidential Information by the GAO
+"2000-10-02 14:43:00" 48685 48370 115817 PDF Attachment-Request for Confidential Information by the GAO
+"2000-10-02 14:43:00" 48685 48831 115817 PDF Attachment-Request for Confidential Information by the GAO
+"2000-10-02 14:43:00" 48685 48368 115817 PDF Attachment-Request for Confidential Information by the GAO
+"2000-10-02 14:43:00" 48685 48367 115817 PDF Attachment-Request for Confidential Information by the GAO
+"2000-10-02 14:43:00" 48685 48366 115817 PDF Attachment-Request for Confidential Information by the GAO
+"2000-10-02 14:43:00" 48685 48372 115817 PDF Attachment-Request for Confidential Information by the GAO
+"2000-10-02 14:43:00" 48685 48374 115817 PDF Attachment-Request for Confidential Information by the GAO
+"2000-10-02 19:59:00" 1490 37 174435 FERC Presentation on California/West Wholesale Market
+"2000-10-04 12:07:00" 1490 2315 174443 Enron Mentions
+"2000-10-04 12:07:00" 1490 5956 174443 Enron Mentions
+"2000-10-04 12:33:00" 1490 28730 174444 Re: RGA request
+"2000-10-04 12:33:00" 1490 817 174444 Re: RGA request
+"2000-10-04 12:33:00" 1490 3536 174444 Re: RGA request
+"2000-10-04 13:30:00" 1490 5416 174445 
+"2000-10-04 13:30:00" 1490 5956 174445 
+"2000-10-04 13:30:00" 1490 2315 174445 
+"2000-10-04 21:46:00" 1490 4937 174449 Re: AGA
+"2000-10-05 17:29:00" 28525 41524 232421 RE: Cal PUC Subpoenas - confidential attorney client communicatio n
+"2000-10-05 17:29:00" 28525 28525 232421 RE: Cal PUC Subpoenas - confidential attorney client communicatio n
+"2000-10-05 17:29:00" 28525 4001 232421 RE: Cal PUC Subpoenas - confidential attorney client communicatio n
+"2000-10-05 17:29:00" 28525 29416 232421 RE: Cal PUC Subpoenas - confidential attorney client communicatio n
+"2000-10-07 22:06:00" 242 222 230625 Re: Confidential - Notes from Portland Visit
+"2000-10-09 12:03:00" 1490 1724 174463 Calling All Investors: The New Power Company's IPO Priced at $21 Per Share
+"2000-10-09 12:03:00" 1490 5416 174463 Calling All Investors: The New Power Company's IPO Priced at $21 Per Share
+"2000-10-09 18:28:00" 1490 2220 174471 
+"2000-10-09 18:28:00" 1490 817 174471 
+"2000-10-10 17:55:00" 1490 2287 174483 Fenosa and Enron to Invest $550 Million in Dominican Republic
+"2000-10-11 14:30:00" 1490 2078 174487 Re: Crisis Management at Enron
+"2000-10-11 16:27:00" 1490 4851 174490 Online Niche Players Capitalize on Natural-Gas Shortage, Bypass Utilities
+"2000-10-11 16:27:00" 1490 5118 174490 Online Niche Players Capitalize on Natural-Gas Shortage, Bypass Utilities
+"2000-10-11 16:27:00" 1490 5375 174490 Online Niche Players Capitalize on Natural-Gas Shortage, Bypass Utilities
+"2000-10-11 17:12:00" 801 253 116118 Fwd:
+"2000-10-11 18:03:00" 1490 253 174493 Re: Meeting w/Sempra
+"2000-10-11 20:50:00" 1490 9311 174497 
+"2000-10-12 12:41:00" 253 37 116143 Fwd:
+"2000-10-12 12:41:00" 253 17095 116143 Fwd:
+"2000-10-12 12:41:00" 253 2239 116143 Fwd:
+"2000-10-13 14:06:00" 1490 253 174503 Re: Legal Analysis on AB 1890
+"2000-10-13 14:09:00" 1490 1477 174504 i2 Bandwidth Management Agreement Press Release
+"2000-10-16 12:01:00" 1490 2315 174509 Enron's policy on Libya
+"2000-10-16 12:01:00" 1490 2215 174509 Enron's policy on Libya
+"2000-10-16 12:01:00" 1490 5416 174509 Enron's policy on Libya
+"2000-10-16 12:01:00" 1490 9311 174509 Enron's policy on Libya
+"2000-10-16 12:01:00" 1490 5125 174509 Enron's policy on Libya
+"2000-10-16 12:01:00" 1490 3495 174509 Enron's policy on Libya
+"2000-10-16 13:11:00" 1490 1463 174513 Commodity Futures Act - Talking Points
+"2000-10-16 13:12:00" 1490 1463 174515 EGEP Sale Announcement
+"2000-10-16 13:12:00" 1490 1463 174514 FERC/SEC Update
+"2000-10-16 13:18:00" 1490 5128 174518 Enron's natural gas policy positions
+"2000-10-16 13:18:00" 1490 1570 174518 Enron's natural gas policy positions
+"2000-10-16 18:12:00" 48685 48372 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 48786 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 48374 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 49194 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 49195 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 48831 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 48373 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 48371 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 48370 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 48368 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 48367 116256 Request for Confidential Information from The Attorney General
+"2000-10-16 18:12:00" 48685 48366 116256 Request for Confidential Information from The Attorney General
+"2000-10-17 12:04:00" 17095 9244 232512 Fwd: Portland Consultant's Investigation Finds California Has Capacity for Electricity Needs
+"2000-10-17 12:07:00" 3164 46859 116270 Fwd: Portland Consultant's Investigation Finds California Has Capacity for Electricity Needs
+"2000-10-17 12:07:00" 3164 28480 116270 Fwd: Portland Consultant's Investigation Finds California Has Capacity for Electricity Needs
+"2000-10-17 12:07:00" 3164 17095 116270 Fwd: Portland Consultant's Investigation Finds California Has Capacity for Electricity Needs
+"2000-10-17 12:07:00" 3164 28579 116270 Fwd: Portland Consultant's Investigation Finds California Has Capacity for Electricity Needs
+"2000-10-17 12:07:00" 3164 46814 116270 Fwd: Portland Consultant's Investigation Finds California Has Capacity for Electricity Needs
+"2000-10-18 21:48:00" 1452 9537 191480 CONFIDENTIAL - Tennessee political contributions
+"2000-10-18 21:48:00" 1452 68579 191480 CONFIDENTIAL - Tennessee political contributions
+"2000-10-23 12:23:00" 242 1282 230660 Privileged/Confidential -- Microsoft Lawsuit
+"2000-10-23 12:23:00" 242 222 230660 Privileged/Confidential -- Microsoft Lawsuit
+"2000-10-30 10:20:00" 5074 2170 174641 Enron Mentions
+"2000-10-30 10:20:00" 5074 2157 174641 Enron Mentions
+"2000-10-30 10:20:00" 5074 5121 174641 Enron Mentions
+"2000-10-30 10:20:00" 5074 2289 174641 Enron Mentions
+"2000-10-30 10:20:00" 5074 5128 174641 Enron Mentions
+"2000-10-30 10:20:00" 5074 1490 174641 Enron Mentions
+"2000-10-30 10:20:00" 5074 2168 174641 Enron Mentions
+"2000-10-30 10:20:00" 5074 1180 174641 Enron Mentions
+"2000-10-30 10:20:00" 5074 11193 174641 Enron Mentions
+"2000-10-30 10:20:00" 5074 5126 174641 Enron Mentions
+"2000-10-30 10:20:00" 5074 1547 174641 Enron Mentions
+"2000-10-30 17:38:00" 1240 155 232597 Confidential Memo For Thursday Meeting
+"2000-10-30 17:38:00" 1240 9244 232597 Confidential Memo For Thursday Meeting
+"2000-10-30 17:38:00" 1240 206 232597 Confidential Memo For Thursday Meeting
+"2000-10-31 11:40:00" 3164 46814 116661 San Jose Mercury News - California Officials Investigate Electric 'Megawatt Laundering'
+"2000-10-31 11:40:00" 3164 28489 116661 San Jose Mercury News - California Officials Investigate Electric 'Megawatt Laundering'
+"2000-10-31 11:40:00" 3164 28579 116661 San Jose Mercury News - California Officials Investigate Electric 'Megawatt Laundering'
+"2000-10-31 11:40:00" 3164 46859 116661 San Jose Mercury News - California Officials Investigate Electric 'Megawatt Laundering'
+"2000-10-31 11:40:00" 3164 28480 116661 San Jose Mercury News - California Officials Investigate Electric 'Megawatt Laundering'
+"2000-10-31 11:40:00" 3164 17095 116661 San Jose Mercury News - California Officials Investigate Electric 'Megawatt Laundering'
+"2000-10-31 11:40:00" 3164 45145 116661 San Jose Mercury News - California Officials Investigate Electric 'Megawatt Laundering'
+"2000-11-01 13:10:00" 47052 46814 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48102 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 47165 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48105 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 47075 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48638 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48354 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48656 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 49207 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48221 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 28579 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48107 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48108 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 47837 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48158 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 49206 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 49204 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 49205 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 46799 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48100 116688 Summary of Today's FERC Order
+"2000-11-01 13:10:00" 47052 48352 116688 Summary of Today's FERC Order
+"2000-11-01 17:49:00" 9244 28621 232613 Confidential Memo For Thursday Meeting
+"2000-11-01 17:49:00" 9244 4001 232613 Confidential Memo For Thursday Meeting
+"2000-11-06 11:17:00" 242 20517 230693 Re: Privileged and Confidential communication to my attorneys
+"2000-11-07 20:22:00" 17095 206 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 253 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 28525 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 4001 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 3164 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 36 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 813 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 166 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 1489 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 9244 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 801 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 9825 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 20:22:00" 17095 37 116987 Important - CPUC Motion - Confidential Attorney Client Privilege and Work Product
+"2000-11-07 21:08:00" 4001 253 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 28525 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 4001 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 3164 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 36 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 1474 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 813 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 37 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 166 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 206 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 48421 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 29416 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 9825 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 17095 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 48422 116988 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 166 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 36 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 1474 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 813 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 37 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 4001 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 28525 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 253 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 206 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 48421 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 48422 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 9825 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 17095 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 29416 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-07 21:08:00" 4001 3164 232643 RE: Important - CPUC Motion - Confidential Attorney Client Privil ege and Work Product
+"2000-11-08 11:31:00" 9825 253 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 1474 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 17095 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 813 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 48422 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 28525 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 166 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 37 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 29416 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 48421 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 206 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 36 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 4001 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 11:31:00" 9825 3164 116993 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 253 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 1474 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 166 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 17095 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 29416 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 813 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 48422 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 28525 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 206 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 36 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 37 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 4001 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 9825 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 48421 116997 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 28525 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 166 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 37 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 29416 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 1474 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 253 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 9825 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 17095 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 813 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 48421 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 206 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 36 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 4001 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-08 12:32:00" 3164 48422 232647 RE: Important - CPUC Motion - Confidential Attorney ClientPrivil ege and Work Product
+"2000-11-17 17:33:00" 242 42284 230724 Re: Privileged and Confidential Communication to my Attorney
+"2000-11-17 17:33:00" 242 80242 230724 Re: Privileged and Confidential Communication to my Attorney
+"2000-11-28 21:50:00" 9244 7668 232752 RE: DPC - strictly confidential and privileged
+"2000-11-28 21:50:00" 9244 29118 232752 RE: DPC - strictly confidential and privileged
+"2000-11-28 21:50:00" 9244 22456 232752 RE: DPC - strictly confidential and privileged
+"2000-11-28 21:50:00" 9244 44045 232752 RE: DPC - strictly confidential and privileged
+"2000-11-28 21:50:00" 9244 17434 232752 RE: DPC - strictly confidential and privileged
+"2000-12-01 09:56:00" 9244 28554 232795 Confidential Memo For Thursday Meeting
+"2000-12-04 12:36:00" 36 37 117978 New MSC Committee Report
+"2000-12-04 12:36:00" 36 253 117978 New MSC Committee Report
+"2000-12-04 12:36:00" 36 1489 117978 New MSC Committee Report
+"2000-12-04 12:36:00" 36 17095 117978 New MSC Committee Report
